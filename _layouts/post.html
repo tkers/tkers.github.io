@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<small class="post-meta">
+  {{ page.date | date: "%-d %B %Y" }}
+  &nbsp;{{ page.emoji | default: '&middot;' }}&nbsp;
+  {{ page.content | number_of_words | divided_by: 250 | plus: 1 }} min read
+</small>
+<h1 class="post-title">{{ page.title }}</h1>
+
+<article>{{ content }}</article>

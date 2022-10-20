@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<section>{{ content }}</section>
+
+<section>
+    {%- for post in site.posts -%}
+      <p>
+        <strong><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong> <small>({{ post.date | date: "%b %Y" }})</small><br>
+        {% if post.description %}
+          {{ post.description }}
+        {% else %}
+          {{ post.excerpt | strip_html | truncate: 280 }}
+        {% endif %}
+      </p>
+    {%- endfor -%}
+</section>

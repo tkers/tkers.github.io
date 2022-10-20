@@ -1,0 +1,41 @@
+# Site settings
+title: './tkers'
+description: 'Sparking joy and doing code. Ja toch!'
+author: 'Tijn Kersjes'
+
+# URL and baseurl (automatically set by GitHub Pages)
+# url: https://tkers.dev
+# baseurl: /
+
+permalink: /blog/:title
+footer: '🌱'
+
+# Header navbar
+navigation:
+  - label: Home
+    page: /
+  - label: Projects
+    page: /projects
+  - label: Blog
+    page: /blog
+  - label: GitHub
+    url: 'https://github.com/tkers'
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+sass:
+  style: :compressed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
