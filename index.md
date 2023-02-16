@@ -21,7 +21,7 @@ You can find me online on [Twitter](https://twitter.com/tijnosaurus), [GitHub](h
 
 ## Talks
 
-**[Writing a Game Boy compiler in Forth](https://www.youtube.com/watch?v=EVJZavbMThs&t=9130s)** <small>(Sept 2022)</small>\
+**[Writing a Game Boy compiler in Forth](https://www.youtube.com/watch?v=tax0DNC0ybI)** <small>(Sept 2022)</small>\
 Conference talk about gbforth at **GambiConf, Lisbon**.
 
 **[Finding the Corner of the Internet You Love](https://www.reaktor.com/forkpullmergepush/finding-the-corner-of-the-internet-you-love-with-amsterdam-hackers)** <small>(Mar 2020)</small>\
