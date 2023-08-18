@@ -12,8 +12,8 @@ A Forth-based Game Boy development kit.
 
 # Games
 
-**[Soko](https://tkers.itch.io/soko)** <small>(Feb 2023)</small>\
-A teensy Sokoban for Playdate.
+**[Soko](https://play.date/games/soko)** <small>(Feb 2023)</small>\
+A teensy Sokoban for Playdate. Available on [Catalog](https://play.date/games/soko) and [itch](https://tkers.itch.io/soko).
 
 **[FortBoy](https://tkers.itch.io/fortboy)** <small>(Mar 2022)</small>\
 A procedurally generated text adventure made during 7DRL.
