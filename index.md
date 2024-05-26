@@ -8,7 +8,7 @@ title: Home
 
 I am a software developer from Amsterdam. Mostly writing (some flavour of) JavaScript, interested in anything functional or reactive, and rarely seen without a cup of coffee. After office hours I like to tinker around with esoteric compilers or hack on old Game Boy hardware.
 
-You can find me on [Twitter](https://twitter.com/tijnosaurus), [Mastodon](https://mastodon.social/@tkers){:rel="me"}, [GitHub](https://github.com/tkers) and [itch.io](https://tkers.itch.io).
+You can find me on [Twitter](https://twitter.com/tijnosaurus), [Mastodon](https://mastodon.gamedev.place/@tkers){:rel="me"}, [GitHub](https://github.com/tkers) and [itch.io](https://tkers.itch.io).
 
 ## tl;dr
 
