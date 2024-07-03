@@ -110,10 +110,10 @@ blockquote {
 
 a {
   color: var(--link-text);
-  text-decoration: none;
-  border-bottom: 1px dashed var(--link-text);
+  text-decoration: underline;
+  text-underline-offset: 0.1rem;
   &:hover {
-    border-bottom-style: solid;
+    text-decoration: none;
   }
 }
 
@@ -138,7 +138,7 @@ a.nav-logo {
   border: none;
   text-decoration: underline;
   text-decoration-color: var(--theme);
-  text-decoration-thickness: 2.5px;
+  text-decoration-thickness: 0.15rem;
 }
 
 ul.nav-list {
@@ -158,8 +158,9 @@ ul.nav-list {
     margin-left: 1rem;
     a {
       border: none;
-      font-size: 0.75rem;
+      font-size: 0.85rem;
       text-transform: uppercase;
+      text-decoration: none;
       font-weight: bold;
       color: var(--link-text);
       &:hover {
