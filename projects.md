@@ -13,10 +13,10 @@ A Forth-based Game Boy development kit.
 # Games
 
 **[Voidblazers](https://tkers.itch.io/voidblazers)** <small>(Aug 2024)</small>\
-A story-driven shoot 'em up game for Playdate. Launching soon.
+A story-driven shoot 'em up for Playdate. Available on [Catalog](https://play.date/games/voidblazers) and [itch.io](https://tkers.itch.io/voidblazers).
 
 **[Soko](https://play.date/games/soko)** <small>(Feb 2023)</small>\
-A teensy Sokoban for Playdate. Available on [Catalog](https://play.date/games/soko) and [itch](https://tkers.itch.io/soko).
+A teensy Sokoban for Playdate. Available on [Catalog](https://play.date/games/soko) and [itch.io](https://tkers.itch.io/soko).
 
 **[FortBoy](https://tkers.itch.io/fortboy)** <small>(Mar 2022)</small>\
 A procedurally generated text adventure made during 7DRL.
