@@ -27,7 +27,7 @@ kramdown:
   syntax_highlighter: rouge
 sass:
   style: :compressed
-
+include: ['.well-known']
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
