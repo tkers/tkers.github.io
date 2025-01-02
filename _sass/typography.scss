@@ -14,7 +14,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-p {
+article p {
   text-align: justify;
   @media (max-width: 480px) {
     text-align: left;
