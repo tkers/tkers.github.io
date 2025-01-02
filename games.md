@@ -1,5 +1,6 @@
 ---
 title: Games
+footer: 👾
 ---
 
 ## Published Games
