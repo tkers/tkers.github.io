@@ -8,7 +8,7 @@ title: Home
 
 I am a software developer from Amsterdam. Mostly writing (some flavour of) JavaScript, interested in anything functional or reactive, and rarely seen without a cup of coffee. After office hours I like to tinker around with esoteric compilers or hack on old Game Boy hardware.
 
-You can find me on [Twitter](https://twitter.com/tijnosaurus), [Mastodon](https://mastodon.gamedev.place/@tkers){:rel="me"}, [GitHub](https://github.com/tkers) and [itch.io](https://tkers.itch.io).
+You can find me on [Bluesky](https://bsky.app/profile/tkers.dev), [Mastodon](https://mastodon.gamedev.place/@tkers){:rel="me"}, [GitHub](https://github.com/tkers) and [itch.io](https://tkers.itch.io).
 
 ## tl;dr
 
@@ -17,7 +17,7 @@ You can find me on [Twitter](https://twitter.com/tijnosaurus), [Mastodon](https:
 - 📣 Enjoy [writing](https://www.reaktor.com/blog/an-introduction-to-codemods) and [talking](https://www.youtube.com/watch?v=xS7UrNPmYX8) about ASTs
 - 🔬 Tinker around with [compilers](https://github.com/liphe/delisp) after hours
 - 👾 Hacking on a Forth-based [Game Boy toolkit](https://github.com/ams-hackers/gbforth)
-- 🌱 Participate in [game jams](https://tkers.itch.io) occasionally
+- 🌱 Participate in [game jams](https://itch.io/c/3080540/game-jams) occasionally
 
 ## Talks
 
