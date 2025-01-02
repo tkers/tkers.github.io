@@ -14,8 +14,8 @@ footer: '🌱'
 navigation:
   - label: Home
     page: /
-  - label: Projects
-    page: /projects
+  - label: Games
+    page: /games
   - label: Blog
     page: /blog
   - label: GitHub
